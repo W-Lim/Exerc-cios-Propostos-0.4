@@ -1,0 +1,13 @@
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\bin\Debug\netcoreapp3.1\AtividadeHEPO.exe
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\bin\Debug\netcoreapp3.1\AtividadeHEPO.deps.json
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\bin\Debug\netcoreapp3.1\AtividadeHEPO.runtimeconfig.json
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\bin\Debug\netcoreapp3.1\AtividadeHEPO.runtimeconfig.dev.json
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\bin\Debug\netcoreapp3.1\AtividadeHEPO.dll
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\bin\Debug\netcoreapp3.1\AtividadeHEPO.pdb
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\obj\Debug\netcoreapp3.1\AtividadeHEPO.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\obj\Debug\netcoreapp3.1\AtividadeHEPO.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\obj\Debug\netcoreapp3.1\AtividadeHEPO.AssemblyInfo.cs
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\obj\Debug\netcoreapp3.1\AtividadeHEPO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\obj\Debug\netcoreapp3.1\AtividadeHEPO.dll
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\obj\Debug\netcoreapp3.1\AtividadeHEPO.pdb
+C:\Users\pc\Downloads\Curso c#\AtividadeHEPO\AtividadeHEPO\obj\Debug\netcoreapp3.1\AtividadeHEPO.genruntimeconfig.cache
